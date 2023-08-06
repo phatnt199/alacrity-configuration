@@ -135,8 +135,8 @@ font:
 colors:
   # Default colors
   primary:
-    background: "#000000"
-    foreground: "#EEEEEE"
+    background: "#080808"
+    foreground: "#EEE2DE"
 
     # Bright and dim foreground colors
     #
@@ -149,8 +149,8 @@ colors:
 
   # Cursor colors
   cursor:
-    text: "#2c2c2c"
-    cursor: "#d9d9d9"
+    text: "#2C2C2C"
+    cursor: "#D9D9D9"
 
   # Vi mode cursor colors
   #
@@ -225,30 +225,30 @@ colors:
   # Normal colors
   normal:
     black: "#080808"
-    red: "#bc5653"
-    green: "#909d63"
-    yellow: "#ebc17a"
-    blue: "#7eaac7"
-    magenta: "#aa6292"
-    cyan: "#86d3ce"
-    white: "#eeeeee"
+    red: "#AF5F5F"
+    green: "#87AFAF"
+    yellow: "#EBC17A"
+    blue: "#7EAAC7"
+    magenta: "#924653"
+    cyan: "#86D3CE"
+    white: "#EEEEEE"
   bright:
     black: "#636363"
-    red: "#bc5653"
-    green: "#909d63"
-    yellow: "#ebc17a"
-    blue: "#7eaac7"
-    magenta: "#aa6292"
-    cyan: "#86d3ce"
-    white: "#f7f7f7"
+    red: "#AF5F5F"
+    green: "#87AFAF"
+    yellow: "#EBC17A"
+    blue: "#7EAAC7"
+    magenta: "#924653"
+    cyan: "#86D3CE"
+    white: "#F7F7F7"
   dim:
     black: "#232323"
-    red: "#74423f"
-    green: "#5e6547"
-    yellow: "#8b7653"
-    blue: "#556b79"
-    magenta: "#6e4962"
-    cyan: "#5c8482"
+    red: "#74423F"
+    green: "#5E6547"
+    yellow: "#8B7653"
+    blue: "#556B79"
+    magenta: "#6E4962"
+    cyan: "#5C8482"
     white: "#828282"
 
   # Indexed Colors
