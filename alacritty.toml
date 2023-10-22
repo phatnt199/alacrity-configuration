@@ -1,5 +1,3 @@
-animation = "EaseOutExpo"
-
 [colors.bright]
 black = "#636363"
 blue = "#7EAAC7"
